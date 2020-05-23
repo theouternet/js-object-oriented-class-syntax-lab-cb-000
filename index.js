@@ -13,7 +13,7 @@ class BoardMember {
     return "You can do that!"
   }
      doCharity() {
-    return "You can do that!"
+    return "You will see great things from Scuber."
   }
 }
 
