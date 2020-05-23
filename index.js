@@ -18,7 +18,7 @@ class BoardMember {
     releasePressStatement() {
     return "You will see great things from Scuber."
   }
-    doCharity() {
+    sayHi () {
     return "You will see great things from Scuber."
   }
   
