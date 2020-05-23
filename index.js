@@ -10,9 +10,11 @@ class BoardMember {
     return "No, I must disagree"
   }
    approve() {
-    return "No, I must disagree"
+    return "You can do that!"
   }
-  
+     doCharity() {
+    return "You can do that!"
+  }
 }
 
 
