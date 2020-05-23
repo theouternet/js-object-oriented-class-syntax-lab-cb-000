@@ -13,9 +13,9 @@ class BoardMember {
     return "You can do that!"
   }
      doCharity() {
-    return "You will see great things from Scuber."
+    return "I like to help people."
   }
-    doCharity() {
+    releasePressStatement() {
     return "You will see great things from Scuber."
   }
     doCharity() {
