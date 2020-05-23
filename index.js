@@ -15,6 +15,13 @@ class BoardMember {
      doCharity() {
     return "You will see great things from Scuber."
   }
+    doCharity() {
+    return "You will see great things from Scuber."
+  }
+    doCharity() {
+    return "You will see great things from Scuber."
+  }
+  
 }
 
 
